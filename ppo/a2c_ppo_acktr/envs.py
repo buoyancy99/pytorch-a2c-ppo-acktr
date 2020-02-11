@@ -1,7 +1,7 @@
 import os
 
 import gym
-import assistive_gym
+import environments
 import numpy as np
 import torch
 from gym.spaces.box import Box
